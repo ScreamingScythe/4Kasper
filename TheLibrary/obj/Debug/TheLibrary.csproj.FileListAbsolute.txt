@@ -1,0 +1,5 @@
+c:\Users\Scythe\source\repos\Queue\TheLibrary\bin\Debug\TheLibrary.dll
+c:\Users\Scythe\source\repos\Queue\TheLibrary\bin\Debug\TheLibrary.pdb
+c:\Users\Scythe\source\repos\Queue\TheLibrary\obj\Debug\TheLibrary.csproj.CoreCompileInputs.cache
+c:\Users\Scythe\source\repos\Queue\TheLibrary\obj\Debug\TheLibrary.dll
+c:\Users\Scythe\source\repos\Queue\TheLibrary\obj\Debug\TheLibrary.pdb

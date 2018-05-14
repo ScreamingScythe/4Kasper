@@ -1,0 +1,15 @@
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\TheLibraryTests.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\TheLibraryTests.pdb
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\TheLibrary.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\TheLibrary.pdb
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\obj\Debug\TheLibraryTests.csprojResolveAssemblyReference.cache
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\obj\Debug\TheLibraryTests.csproj.CoreCompileInputs.cache
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\obj\Debug\TheLibraryTests.dll
+c:\Users\Scythe\source\repos\Queue\TheLibraryTests\obj\Debug\TheLibraryTests.pdb
